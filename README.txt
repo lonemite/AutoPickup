@@ -1,0 +1,1 @@
+Just a QoL mod that automatically picks up items for you <3
